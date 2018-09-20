@@ -12,7 +12,7 @@
             <Image url="@../data/ensayo.png" />
          </image>
       </ImageView>
-      <Button fx:id="opcion1" layoutX="414.0" layoutY="288.0" mnemonicParsing="false" onAction="#openCampo" prefHeight="63.0" prefWidth="106.0" text="asad" />
+      <Button fx:id="opcion1" layoutX="414.0" layoutY="288.0" mnemonicParsing="false" onAction="#openCampo" prefHeight="63.0" prefWidth="106.0" />
       <Button fx:id="opcion2" layoutX="223.0" layoutY="288.0" mnemonicParsing="false" prefHeight="63.0" prefWidth="106.0" text="Opción 2" />
    </children>
 </AnchorPane>
